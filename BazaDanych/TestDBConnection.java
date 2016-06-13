@@ -11,10 +11,10 @@ import java.util.ArrayList;
 
 public class TestDBConnection extends TestCase {
     DBConnection dbc = new DBConnection();
-    private String Adres = "test";
-    private String Pesel = "test";
-    private String Surname = "test";
-    private String Name = "test@test";
+    private String Adres = "testA";
+    private String Pesel = "testP";
+    private String Surname = "testS";
+    private String Name = "testN";
 
     /*TestDBConnection(DBConnection dbc)
     {
